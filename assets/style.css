@@ -653,6 +653,7 @@ p {
 /* footer */
 
 footer {
+  margin-top: 5rem;
   padding: 5rem;
   background-color: gray;
 }
